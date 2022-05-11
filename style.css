@@ -122,14 +122,16 @@ LINK AND HOVER STYLES
   padding-right: 20px;
   padding-bottom: 0;
   height: 0px;
+  cursor: default;
 }
 
 .text-light-as-link {
-  color: #000000;
+  color: #909090;
   text-decoration: none;
   padding-right: 20px;
   padding-bottom: 0;
   height: 0px;
+  cursor: pointer;
 }
 
 .text-light-as-link:hover {
